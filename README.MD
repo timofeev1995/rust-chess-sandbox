@@ -1,4 +1,4 @@
-# Cheess sandbox
+# Chess sandbox
 
 ![Appearance](./.gif/appearance.gif)
 
