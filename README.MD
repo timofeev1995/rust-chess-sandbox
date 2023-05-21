@@ -4,7 +4,7 @@
 
 
 - Written in Rust and OpenGL using glium
-- Simple sandbox with movштп the pieces in turn
+- Simple sandbox with moving the pieces in turn
 - No checkmate logic, no castling (yet) but en passant is here :)
 
 
